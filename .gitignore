@@ -1,0 +1,11 @@
+# local verification stack: device tokens, master DB, JWT secret, logs
+stack/
+run/
+dist/
+# build output
+modules/**/bin/
+*.exe
+*.exe~
+*.tmod
+__pycache__/
+node_modules/
